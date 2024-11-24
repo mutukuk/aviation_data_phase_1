@@ -34,6 +34,7 @@ Features of the Dashboard
     Aviation Risk Compass: A user-friendly, interactive Tableau dashboard that visualizes risk factors for different aircraft models, weather conditions, and regions.
     Risk Scoring Model: Comprehensive scoring framework for evaluating safety risks based on multiple variables.
     Actionable Insights: Clear recommendations for fleet acquisition and operational safety improvements.
+    Here is the link to the Dashboard https://public.tableau.com/views/AviationRiskCompass/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 Repository Structure
 
