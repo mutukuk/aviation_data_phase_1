@@ -1,5 +1,5 @@
-Aviation Risk Assessment Dashboard
-Overview
+###Aviation Risk Assessment Dashboard
+##Overview
 
 This repository contains the resources, data, and analysis for creating a comprehensive Aviation Risk Assessment Dashboard. As part of the company's expansion into aviation, this project evaluates historical aviation incident data to guide the acquisition of safe and low-risk aircraft for commercial and private operations. The dashboard provides actionable insights into risk factors and trends, enabling data-driven decision-making that aligns with safety and operational goals.
 Business Understanding
@@ -11,39 +11,39 @@ Executive Summary
 This project evaluates historical aviation incident data to identify low-risk aircraft types that meet the company’s goals for safety and profitability. By analyzing variables such as incident frequency, injury rates, weather conditions, and damage severity, we aim to recommend aircraft models that reduce risks and ensure passenger safety.
 Objectives
 
-    Identify Low-Risk Aircraft: Analyze historical data to determine aircraft models with minimal incidents, injuries, and damages.
-    Understand Risk Factors: Investigate variables like weather conditions, flight purpose, and damage severity that influence aviation risks.
-    Provide Actionable Insights: Develop data-driven recommendations for acquiring safe aircraft based on risk assessments.
+Identify Low-Risk Aircraft: Analyze historical data to determine aircraft models with minimal incidents, injuries, and damages.
+Understand Risk Factors: Investigate variables like weather conditions, flight purpose, and damage severity that influence aviation risks.
+Provide Actionable Insights: Develop data-driven recommendations for acquiring safe aircraft based on risk assessments.
 
 Research Questions
 
-    Which aircraft models have the lowest incident rates and injury severities?
-    How do weather conditions (e.g., VMC, IMC) affect the frequency and severity of aviation incidents?
-    What is the distribution of risk scores across different aircraft types, and which factors contribute most to higher scores?
-    How have aviation incident trends evolved over time, particularly for business and commercial flights?
-    What patterns emerge from incidents across countries, and how do they inform regional safety standards?
+1.Which aircraft models have the lowest incident rates and injury severities?
+2.How do weather conditions (e.g., VMC, IMC) affect the frequency and severity of aviation incidents?
+3.What is the distribution of risk scores across different aircraft types, and which factors contribute most to higher scores?
+4.How have aviation incident trends evolved over time, particularly for business and commercial flights?
+5.What patterns emerge from incidents across countries, and how do they inform regional safety standards?
 
 Success Criteria
 
-    Data Quality and Handling: Effectively manage missing values and extract meaningful insights from the dataset.
-    Risk Assessment Framework: Develop a reliable risk scoring model that integrates factors such as incidents, injuries, and damages.
-    Actionable Recommendations: Present clear, data-driven recommendations for aircraft acquisition that align with safety and operational objectives.
+1.Data Quality and Handling: Effectively manage missing values and extract meaningful insights from the dataset.
+2.Risk Assessment Framework: Develop a reliable risk scoring model that integrates factors such as incidents, injuries, and damages.
+3.Actionable Recommendations: Present clear, data-driven recommendations for aircraft acquisition that align with safety and operational objectives.
 
 Features of the Dashboard
 
-    Aviation Risk Compass: A user-friendly, interactive Tableau dashboard that visualizes risk factors for different aircraft models, weather conditions, and regions.
-    Risk Scoring Model: Comprehensive scoring framework for evaluating safety risks based on multiple variables.
-    Actionable Insights: Clear recommendations for fleet acquisition and operational safety improvements.
-    Here is the link to the Dashboard https://public.tableau.com/views/AviationRiskCompass/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+1.Aviation Risk Compass: A user-friendly, interactive Tableau dashboard that visualizes risk factors for different aircraft models, weather conditions, and regions.
+2.Risk Scoring Model: Comprehensive scoring framework for evaluating safety risks based on multiple variables.
+3.Actionable Insights: Clear recommendations for fleet acquisition and operational safety improvements.
+4.Here is the link to the Dashboard https://public.tableau.com/views/AviationRiskCompass/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 Repository Structure
 
-├── data/                # Raw and processed datasets
-├── notebooks/           # Jupyter notebooks for data analysis and model development
-├── dashboard/           # Tableau files and screenshots of the dashboard
-├── scripts/             # Python scripts for data cleaning and processing
-├── visuals/             # Exported charts and visualizations
-├── README.md            # Overview of the project (this file)
+    ├── data/                # Raw and processed datasets
+    ├── notebooks/           # Jupyter notebooks for data analysis and model development
+    ├── dashboard/           # Tableau files and screenshots of the dashboard
+    ├── scripts/             # Python scripts for data cleaning and processing
+    ├── visuals/             # Exported charts and visualizations
+    ├── README.md            # Overview of the project (this file)
 
 Getting Started
 Prerequisites
