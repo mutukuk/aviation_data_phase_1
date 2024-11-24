@@ -67,7 +67,3 @@ Future Enhancements
     Expand the risk model to incorporate real-time aviation data.
     Develop predictive analytics to forecast future risks.
     Integrate automated reporting for decision-makers.
-
-License
-
-This project is licensed under the MIT License. See the LICENSE file for details.
