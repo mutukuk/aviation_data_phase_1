@@ -18,23 +18,34 @@ Provide Actionable Insights: Develop data-driven recommendations for acquiring s
 Research Questions
 
 1.Which aircraft models have the lowest incident rates and injury severities?
+
 2.How do weather conditions (e.g., VMC, IMC) affect the frequency and severity of aviation incidents?
+
 3.What is the distribution of risk scores across different aircraft types, and which factors contribute most to higher scores?
+
 4.How have aviation incident trends evolved over time, particularly for business and commercial flights?
+
 5.What patterns emerge from incidents across countries, and how do they inform regional safety standards?
 
 Success Criteria
 
 1.Data Quality and Handling: Effectively manage missing values and extract meaningful insights from the dataset.
+
 2.Risk Assessment Framework: Develop a reliable risk scoring model that integrates factors such as incidents, injuries, and damages.
+
 3.Actionable Recommendations: Present clear, data-driven recommendations for aircraft acquisition that align with safety and operational objectives.
 
 Features of the Dashboard
 
 1.Aviation Risk Compass: A user-friendly, interactive Tableau dashboard that visualizes risk factors for different aircraft models, weather conditions, and regions.
+
 2.Risk Scoring Model: Comprehensive scoring framework for evaluating safety risks based on multiple variables.
+
 3.Actionable Insights: Clear recommendations for fleet acquisition and operational safety improvements.
-4.Here is the link to the Dashboard https://public.tableau.com/views/AviationRiskCompass/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
+4.Here is the link to the Dashboard 
+
+https://public.tableau.com/views/AviationRiskCompass/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 Repository Structure
 
