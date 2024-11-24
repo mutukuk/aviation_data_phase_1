@@ -44,7 +44,6 @@ Repository Structure
 ├── scripts/             # Python scripts for data cleaning and processing
 ├── visuals/             # Exported charts and visualizations
 ├── README.md            # Overview of the project (this file)
-└── requirements.txt     # Dependencies for the project
 
 Getting Started
 Prerequisites
